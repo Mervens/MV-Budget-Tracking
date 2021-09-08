@@ -19,7 +19,7 @@ Attempt to add or subtract funds while in Google Chrome developer tools, setting
 
 Shareable link to this repo:  
 
-### Link: **https://github.com/Mervens/M.**  
+### Link: **https://github.com/Mervens/MV-Budget-Tracking.**  
 
 Creator's GitHub Profile:  
 
